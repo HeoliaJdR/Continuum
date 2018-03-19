@@ -1,0 +1,2 @@
+enemies : 1
+enemy -> xmin : 200 xmax : 700 ymin : 100 ymax : 400 moving_type : 4 direction : 2 enemy_type : 4 speed : 3 animation_delay : 400 0

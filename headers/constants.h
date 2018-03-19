@@ -1,0 +1,24 @@
+#ifndef MAINLOOP_H_INCLUDED
+#define MAINLOOP_H_INCLUDED
+
+    #define LEVEL1 "levels/level1/level1.txt"
+    #define LEVEL2 "levels/level2/level2.txt"
+    #define DOOR_OPEN "sound/ogg/DoorOpen01.ogg"
+    #define DOOR_CLOSE "sound/ogg/DoorClose02.ogg"
+
+    #define XMIN_BUTTON_CONTINUE_GAME 300
+    #define YMIN_BUTTON_CONTINUE_GAME 440
+    #define XMAX_BUTTON_CONTINUE_GAME 550
+    #define YMAX_BUTTON_CONTINUE_GAME 460
+
+    #define XMIN_BUTTON_QUIT_GAME 300
+    #define YMIN_BUTTON_QUIT_GAME 480
+    #define XMAX_BUTTON_QUIT_GAME 550
+    #define YMAX_BUTTON_QUIT_GAME 500
+
+    enum directions {TOP, BOT, LEFT, RIGHT};
+    enum movements {VERTICAL, HORIZONTAL, STATIC, TURNING_LEFT, TURNING_RIGHT};
+    enum special_tiles {DOOR, PRESSURE_PLATE, SIDE_DOOR, BLUE_DOOR, BLUE_PRESSURE_PLATE, BLUE_SIDE_DOOR, RED_DOOR, RED_PRESSURE_PLATE, RED_SIDE_DOOR, BUSH, CRYSTAL, END_PORTAL};
+
+
+#endif // MAINLOOP_H_INCLUDED

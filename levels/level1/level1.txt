@@ -1,0 +1,5 @@
+posCharacterx : 100 posCharactery : 100
+maps : 3
+map -> map_bmp : levels/level1/map1.bmp map_datas : levels/level1/map1.txt map_enemies : levels/level1/enemies.txt
+map -> map_bmp : levels/level1/map2.bmp map_datas : levels/level1/map2.txt map_enemies : levels/level1/enemies2.txt
+map -> map_bmp : levels/level1/map3.bmp map_datas : levels/level1/map3.txt map_enemies : levels/level1/enemies3.txt

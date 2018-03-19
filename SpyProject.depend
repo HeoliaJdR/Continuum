@@ -1,0 +1,2084 @@
+# depslib dependency file v1.0
+1517760622 source:c:\users\metro\desktop\projet_avec_ttf\sources\main.c
+	"../headers/menu.h"
+
+1517760012 c:\users\metro\desktop\projet_avec_ttf\headers\menu.h
+	"game.h"
+	"picture.h"
+
+1517760012 c:\users\metro\desktop\projet_avec_ttf\headers\game.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"constants.h"
+	"structures.h"
+	"prototypes.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_platform.h
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\begin_code.h
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\close_code.h
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_keysym.h
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517672529 c:\users\metro\desktop\projet_avec_ttf\headers\constants.h
+
+1517758356 c:\users\metro\desktop\projet_avec_ttf\headers\structures.h
+
+1517756992 c:\users\metro\desktop\projet_avec_ttf\headers\prototypes.h
+
+1517660442 c:\users\metro\desktop\projet_avec_ttf\headers\picture.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1517766545 source:c:\users\metro\desktop\projet_avec_ttf\sources\game.c
+	"../headers/game.h"
+
+1517760224 source:c:\users\metro\desktop\projet_avec_ttf\sources\menu.c
+	"../headers/menu.h"
+
+1517759820 source:c:\users\metro\desktop\projet_avec_ttf\sources\menu_newgame.c
+	"../headers/menu.h"
+
+1517759402 source:c:\users\metro\desktop\projet_avec_ttf\sources\oldmain.c
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517759914 source:c:\users\metro\desktop\projet_avec_ttf\sources\picture.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"../headers/picture.h"
+
+1517766224 source:c:\users\metro\desktop\projet_avec_ttf\sources\functions.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"../headers/constants.h"
+	"../headers/structures.h"
+	"../headers/prototypes.h"
+
+1517766224 source:c:\users\metro\desktop\projet_avec_ttf1\sources\functions.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"../headers/constants.h"
+	"../headers/structures.h"
+	"../headers/prototypes.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_platform.h
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\begin_code.h
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\close_code.h
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_keysym.h
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517672529 c:\users\metro\desktop\projet_avec_ttf1\headers\constants.h
+
+1517758356 c:\users\metro\desktop\projet_avec_ttf1\headers\structures.h
+
+1517756992 c:\users\metro\desktop\projet_avec_ttf1\headers\prototypes.h
+
+1517760622 source:c:\users\metro\desktop\projet_avec_ttf1\sources\main.c
+	"../headers/menu.h"
+
+1517760012 c:\users\metro\desktop\projet_avec_ttf1\headers\menu.h
+	"game.h"
+	"picture.h"
+
+1517760012 c:\users\metro\desktop\projet_avec_ttf1\headers\game.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"constants.h"
+	"structures.h"
+	"prototypes.h"
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517660442 c:\users\metro\desktop\projet_avec_ttf1\headers\picture.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1517760224 source:c:\users\metro\desktop\projet_avec_ttf1\sources\menu.c
+	"../headers/menu.h"
+
+1517759820 source:c:\users\metro\desktop\projet_avec_ttf1\sources\menu_newgame.c
+	"../headers/menu.h"
+
+1517759402 source:c:\users\metro\desktop\projet_avec_ttf1\sources\oldmain.c
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1517755562 c:\users\metro\desktop\projet_avec_ttf1\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517759914 source:c:\users\metro\desktop\projet_avec_ttf1\sources\picture.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"../headers/picture.h"
+
+1517766678 source:c:\users\metro\desktop\projet_avec_ttf1\sources\game.c
+	"../headers/game.h"
+
+1517766678 source:d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\sources\game.c
+	"../headers/game.h"
+
+1517760012 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\headers\game.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"constants.h"
+	"structures.h"
+	"prototypes.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_platform.h
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\begin_code.h
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\close_code.h
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_keysym.h
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517672529 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\headers\constants.h
+
+1517758356 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\headers\structures.h
+
+1517767480 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\headers\prototypes.h
+
+1517760622 source:d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\sources\main.c
+	"../headers/menu.h"
+
+1517760012 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\headers\menu.h
+	"game.h"
+	"picture.h"
+
+1517660442 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\headers\picture.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1517760224 source:d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\sources\menu.c
+	"../headers/menu.h"
+
+1517759820 source:d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\sources\menu_newgame.c
+	"../headers/menu.h"
+
+1517759402 source:d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\sources\oldmain.c
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517759914 source:d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\sources\picture.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"../headers/picture.h"
+
+1517781235 source:d:\cours esgi\2e année\c\projet_c_1er_semestre\projet_avec_ttf1\sources\functions.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"../headers/constants.h"
+	"../headers/structures.h"
+	"../headers/prototypes.h"
+
+1517781235 source:c:\users\antoine thénevin\desktop\projet_avec_ttf1\sources\functions.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"../headers/constants.h"
+	"../headers/structures.h"
+	"../headers/prototypes.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_platform.h
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\begin_code.h
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\close_code.h
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_keysym.h
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517672529 c:\users\antoine thénevin\desktop\projet_avec_ttf1\headers\constants.h
+
+1517758356 c:\users\antoine thénevin\desktop\projet_avec_ttf1\headers\structures.h
+
+1517767480 c:\users\antoine thénevin\desktop\projet_avec_ttf1\headers\prototypes.h
+
+1517766678 source:c:\users\antoine thénevin\desktop\projet_avec_ttf1\sources\game.c
+	"../headers/game.h"
+
+1517760012 c:\users\antoine thénevin\desktop\projet_avec_ttf1\headers\game.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"constants.h"
+	"structures.h"
+	"prototypes.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517760622 source:c:\users\antoine thénevin\desktop\projet_avec_ttf1\sources\main.c
+	"../headers/menu.h"
+
+1517868016 c:\users\antoine thénevin\desktop\projet_avec_ttf1\headers\menu.h
+	"game.h"
+	"picture.h"
+
+1517660442 c:\users\antoine thénevin\desktop\projet_avec_ttf1\headers\picture.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1517863905 source:c:\users\antoine thénevin\desktop\projet_avec_ttf1\sources\menu.c
+	"../headers/menu.h"
+
+1517869083 source:c:\users\antoine thénevin\desktop\projet_avec_ttf1\sources\menu_newgame.c
+	"../headers/menu.h"
+
+1517759402 source:c:\users\antoine thénevin\desktop\projet_avec_ttf1\sources\oldmain.c
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1517755562 c:\users\antoine thénevin\desktop\projet_avec_ttf1\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517759914 source:c:\users\antoine thénevin\desktop\projet_avec_ttf1\sources\picture.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"../headers/picture.h"
+
+1517781235 source:d:\projet_avec_ttf1\sources\functions.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"../headers/constants.h"
+	"../headers/structures.h"
+	"../headers/prototypes.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_platform.h
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\begin_code.h
+
+1517755562 d:\projet_avec_ttf1\include\sdl\close_code.h
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_keysym.h
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517672529 d:\projet_avec_ttf1\headers\constants.h
+
+1517758356 d:\projet_avec_ttf1\headers\structures.h
+
+1517767480 d:\projet_avec_ttf1\headers\prototypes.h
+
+1517766678 source:d:\projet_avec_ttf1\sources\game.c
+	"../headers/game.h"
+
+1517916481 d:\projet_avec_ttf1\headers\game.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"constants.h"
+	"structures.h"
+	"prototypes.h"
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517760622 source:d:\projet_avec_ttf1\sources\main.c
+	"../headers/menu.h"
+
+1517868016 d:\projet_avec_ttf1\headers\menu.h
+	"game.h"
+	"picture.h"
+
+1517660442 d:\projet_avec_ttf1\headers\picture.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1517863905 source:d:\projet_avec_ttf1\sources\menu.c
+	"../headers/menu.h"
+
+1517922453 source:d:\projet_avec_ttf1\sources\menu_newgame.c
+	"../headers/menu.h"
+
+1517759402 source:d:\projet_avec_ttf1\sources\oldmain.c
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1517755562 d:\projet_avec_ttf1\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517759914 source:d:\projet_avec_ttf1\sources\picture.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"../headers/picture.h"
+
+1517781235 source:c:\users\antoine.thenevin\desktop\projetc\sources\functions.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"../headers/constants.h"
+	"../headers/structures.h"
+	"../headers/prototypes.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_platform.h
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\begin_code.h
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\close_code.h
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_keysym.h
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517672529 c:\users\antoine.thenevin\desktop\projetc\headers\constants.h
+
+1517758356 c:\users\antoine.thenevin\desktop\projetc\headers\structures.h
+
+1517767480 c:\users\antoine.thenevin\desktop\projetc\headers\prototypes.h
+
+1517766678 source:c:\users\antoine.thenevin\desktop\projetc\sources\game.c
+	"../headers/game.h"
+
+1517916481 c:\users\antoine.thenevin\desktop\projetc\headers\game.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"constants.h"
+	"structures.h"
+	"prototypes.h"
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517760622 source:c:\users\antoine.thenevin\desktop\projetc\sources\main.c
+	"../headers/menu.h"
+
+1517936603 c:\users\antoine.thenevin\desktop\projetc\headers\menu.h
+	"game.h"
+	"picture.h"
+
+1517936484 c:\users\antoine.thenevin\desktop\projetc\headers\picture.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1517931227 source:c:\users\antoine.thenevin\desktop\projetc\sources\menu.c
+	"../headers/menu.h"
+
+1517932255 source:c:\users\antoine.thenevin\desktop\projetc\sources\menu_newgame.c
+	"../headers/menu.h"
+
+1517759402 source:c:\users\antoine.thenevin\desktop\projetc\sources\oldmain.c
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1517755562 c:\users\antoine.thenevin\desktop\projetc\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517759914 source:c:\users\antoine.thenevin\desktop\projetc\sources\picture.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"../headers/picture.h"
+
+1517936402 source:c:\users\antoine.thenevin\desktop\projetc\sources\menu_continugame.c
+	"../headers/menu.h"
+
+1517781235 source:c:\users\antoine thénevin\desktop\projetc\sources\functions.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"../headers/constants.h"
+	"../headers/structures.h"
+	"../headers/prototypes.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_platform.h
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\begin_code.h
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\close_code.h
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_keysym.h
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517672529 c:\users\antoine thénevin\desktop\projetc\headers\constants.h
+
+1517758356 c:\users\antoine thénevin\desktop\projetc\headers\structures.h
+
+1517767480 c:\users\antoine thénevin\desktop\projetc\headers\prototypes.h
+
+1517766678 source:c:\users\antoine thénevin\desktop\projetc\sources\game.c
+	"../headers/game.h"
+
+1517916481 c:\users\antoine thénevin\desktop\projetc\headers\game.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"constants.h"
+	"structures.h"
+	"prototypes.h"
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517760622 source:c:\users\antoine thénevin\desktop\projetc\sources\main.c
+	"../headers/menu.h"
+
+1518028319 c:\users\antoine thénevin\desktop\projetc\headers\menu.h
+	"game.h"
+	"picture.h"
+
+1517936484 c:\users\antoine thénevin\desktop\projetc\headers\picture.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1518029484 source:c:\users\antoine thénevin\desktop\projetc\sources\menu.c
+	"../headers/menu.h"
+
+1517932255 source:c:\users\antoine thénevin\desktop\projetc\sources\menu_newgame.c
+	"../headers/menu.h"
+
+1517759402 source:c:\users\antoine thénevin\desktop\projetc\sources\oldmain.c
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1517755562 c:\users\antoine thénevin\desktop\projetc\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517759914 source:c:\users\antoine thénevin\desktop\projetc\sources\picture.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"../headers/picture.h"
+
+1518030104 source:c:\users\antoine thénevin\desktop\projetc\sources\menu_continugame.c
+	"../headers/menu.h"
+
+1517760622 source:d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\sources\main.c
+	"../headers/menu.h"
+
+1518039421 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\headers\menu.h
+	"game.h"
+	"picture.h"
+
+1518031588 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\headers\game.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"constants.h"
+	"structures.h"
+	"prototypes.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_platform.h
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\begin_code.h
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\close_code.h
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_keysym.h
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1518028851 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\headers\constants.h
+
+1517758358 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\headers\structures.h
+
+1518038937 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\headers\prototypes.h
+
+1517936486 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\headers\picture.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1518033312 source:d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\sources\menu.c
+	"../headers/menu.h"
+
+1518039397 source:d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\sources\menu_continugame.c
+	"../headers/menu.h"
+
+1518040311 source:d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\sources\menu_newgame.c
+	"../headers/menu.h"
+
+1517759402 source:d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\sources\oldmain.c
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517759914 source:d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\sources\picture.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"../headers/picture.h"
+
+1518042921 source:d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\sources\functions.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	"../headers/constants.h"
+	"../headers/structures.h"
+	"../headers/prototypes.h"
+
+1325789340 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1517755562 d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\include\sdl\sdl_types.h
+	"SDL_stdinc.h"
+
+1518040569 source:d:\cours esgi\2e année\c\projet_c_1er_semestre\projetc\sources\game.c
+	"../headers/game.h"
+

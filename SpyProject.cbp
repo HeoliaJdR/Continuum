@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SDL_image_TTF_Template" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SDL_image_TTF_Template" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SDL_image_TTF_Template" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="include" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL" />
+			<Add library="lib/SDL_image.lib" />
+			<Add library="lib/SDL_TTF.lib" />
+			<Add directory="lib" />
+		</Linker>
+		<Unit filename="headers/constants.h" />
+		<Unit filename="headers/game.h" />
+		<Unit filename="headers/menu.h" />
+		<Unit filename="headers/picture.h" />
+		<Unit filename="headers/prototypes.h" />
+		<Unit filename="headers/structures.h" />
+		<Unit filename="sources/functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/game.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/menu_continugame.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/menu_newgame.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/oldMain.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sources/picture.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
